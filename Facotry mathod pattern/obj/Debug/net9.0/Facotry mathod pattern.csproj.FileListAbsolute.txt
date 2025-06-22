@@ -1,0 +1,14 @@
+E:\Facotry mathod pattern\bin\Debug\net9.0\Facotry mathod pattern.exe
+E:\Facotry mathod pattern\bin\Debug\net9.0\Facotry mathod pattern.deps.json
+E:\Facotry mathod pattern\bin\Debug\net9.0\Facotry mathod pattern.runtimeconfig.json
+E:\Facotry mathod pattern\bin\Debug\net9.0\Facotry mathod pattern.dll
+E:\Facotry mathod pattern\bin\Debug\net9.0\Facotry mathod pattern.pdb
+E:\Facotry mathod pattern\obj\Debug\net9.0\Facotry mathod pattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facotry mathod pattern\obj\Debug\net9.0\Facotry mathod pattern.AssemblyInfoInputs.cache
+E:\Facotry mathod pattern\obj\Debug\net9.0\Facotry mathod pattern.AssemblyInfo.cs
+E:\Facotry mathod pattern\obj\Debug\net9.0\Facotry mathod pattern.csproj.CoreCompileInputs.cache
+E:\Facotry mathod pattern\obj\Debug\net9.0\Facotry mathod pattern.dll
+E:\Facotry mathod pattern\obj\Debug\net9.0\refint\Facotry mathod pattern.dll
+E:\Facotry mathod pattern\obj\Debug\net9.0\Facotry mathod pattern.pdb
+E:\Facotry mathod pattern\obj\Debug\net9.0\Facotry mathod pattern.genruntimeconfig.cache
+E:\Facotry mathod pattern\obj\Debug\net9.0\ref\Facotry mathod pattern.dll
