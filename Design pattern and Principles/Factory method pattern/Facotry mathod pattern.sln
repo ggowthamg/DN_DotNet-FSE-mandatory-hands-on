@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facotry mathod pattern", "Facotry mathod pattern.csproj", "{1C87E92F-57D3-ECA1-DB2F-B0C7949284F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C87E92F-57D3-ECA1-DB2F-B0C7949284F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C87E92F-57D3-ECA1-DB2F-B0C7949284F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C87E92F-57D3-ECA1-DB2F-B0C7949284F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C87E92F-57D3-ECA1-DB2F-B0C7949284F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4243F84B-5D1B-4EA3-B35B-7113B75302B7}
+	EndGlobalSection
+EndGlobal
