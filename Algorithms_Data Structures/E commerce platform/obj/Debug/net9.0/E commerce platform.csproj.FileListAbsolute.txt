@@ -1,0 +1,14 @@
+E:\E commerce platform\obj\Debug\net9.0\E commerce platform.GeneratedMSBuildEditorConfig.editorconfig
+E:\E commerce platform\obj\Debug\net9.0\E commerce platform.AssemblyInfoInputs.cache
+E:\E commerce platform\obj\Debug\net9.0\E commerce platform.AssemblyInfo.cs
+E:\E commerce platform\obj\Debug\net9.0\E commerce platform.csproj.CoreCompileInputs.cache
+E:\E commerce platform\bin\Debug\net9.0\E commerce platform.exe
+E:\E commerce platform\bin\Debug\net9.0\E commerce platform.deps.json
+E:\E commerce platform\bin\Debug\net9.0\E commerce platform.runtimeconfig.json
+E:\E commerce platform\bin\Debug\net9.0\E commerce platform.dll
+E:\E commerce platform\bin\Debug\net9.0\E commerce platform.pdb
+E:\E commerce platform\obj\Debug\net9.0\E commerce platform.dll
+E:\E commerce platform\obj\Debug\net9.0\refint\E commerce platform.dll
+E:\E commerce platform\obj\Debug\net9.0\E commerce platform.pdb
+E:\E commerce platform\obj\Debug\net9.0\E commerce platform.genruntimeconfig.cache
+E:\E commerce platform\obj\Debug\net9.0\ref\E commerce platform.dll
